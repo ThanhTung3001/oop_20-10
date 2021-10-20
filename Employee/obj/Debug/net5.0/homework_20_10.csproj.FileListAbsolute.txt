@@ -1,0 +1,16 @@
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\bin\Debug\net5.0\homework_20_10.exe
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\bin\Debug\net5.0\homework_20_10.deps.json
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\bin\Debug\net5.0\homework_20_10.runtimeconfig.json
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\bin\Debug\net5.0\homework_20_10.runtimeconfig.dev.json
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\bin\Debug\net5.0\homework_20_10.dll
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\bin\Debug\net5.0\ref\homework_20_10.dll
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\bin\Debug\net5.0\homework_20_10.pdb
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\obj\Debug\net5.0\homework_20_10.csproj.AssemblyReference.cache
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\obj\Debug\net5.0\homework_20_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\obj\Debug\net5.0\homework_20_10.AssemblyInfoInputs.cache
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\obj\Debug\net5.0\homework_20_10.AssemblyInfo.cs
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\obj\Debug\net5.0\homework_20_10.csproj.CoreCompileInputs.cache
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\obj\Debug\net5.0\homework_20_10.dll
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\obj\Debug\net5.0\ref\homework_20_10.dll
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\obj\Debug\net5.0\homework_20_10.pdb
+D:\ThanhTung Desktop\Project\Cshape\homework_20_10\homework_20_10\obj\Debug\net5.0\homework_20_10.genruntimeconfig.cache
